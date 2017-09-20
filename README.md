@@ -12,6 +12,8 @@ The SDK will speed values continuously from a text file instead of typing it in 
 Original SDK: This is a modified version of Anki's Drive SDK which can be found at:
 https://github.com/anki/drive-sdk
 
+
+
 Installing on Raspberry PI:
 
 This SDK is to be built and compiled on a Raspberry Pi (instead of a PC running Ubuntu) fitted with an Ultrasonic Sensor.
@@ -20,6 +22,9 @@ The tutorial on how to build the SDK is given below:
 
 The process is identical to building the Anki-Drive-SDK.
 https://github.com/anki/drive-sdk/wiki/Getting-Started-on-Ubuntu
+
+
+
 
 Raspberry Pi and Python:
 
